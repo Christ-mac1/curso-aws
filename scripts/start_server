@@ -1,0 +1,4 @@
+#!/bin/bash
+sudo systemctl strat httpd
+sudo systemctl enable httpd
+sudo systemctl restart httpd
